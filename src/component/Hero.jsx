@@ -3,7 +3,7 @@ const Hero=()=>{
     return <main className="hero cantainer">
         <div className="hero-content">
             <h1>Your feet Deserve The Best</h1>
-            <p> try pull hello Lorem ipsum dolor sit a Lorem ipsum dolor sit amet consectetur awsome and good looking sozes adipisicing elit. Animi, consectetur. Explicabo, nisi? feel free and comfortable with the sozes</p>
+            <p> change push try pull hello Lorem ipsum dolor sit a Lorem ipsum dolor sit amet consectetur awsome and good looking sozes adipisicing elit. Animi, consectetur. Explicabo, nisi? feel free and comfortable with the sozes</p>
 <div className="hero-button">
     <button>
         Shop_Now
